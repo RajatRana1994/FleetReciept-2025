@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "73732109058",
+    "project_id": "fleetreceipt-f385b",
+    "storage_bucket": "fleetreceipt-f385b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73732109058:android:08a7c4513d94568a96881b",
+        "android_client_info": {
+          "package_name": "com.live.FleetReceipt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73732109058-2dhvm6bpo4fh5bs3rm585dk0fo8q1cub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.live.FleetReceipt",
+            "certificate_hash": "05a43b29ba6eb44ef6f47a856fa0d666af4c9e05"
+          }
+        },
+        {
+          "client_id": "73732109058-ppcm5lb1lr1lfcok8kq40dnl0u7bqp7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.live.FleetReceipt",
+            "certificate_hash": "85d3640faf83fb05b48e0da25cfa3616f06cf993"
+          }
+        },
+        {
+          "client_id": "73732109058-m8e0sclvccggu10vff3mshjfkis3jvd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL5CknX2NJlh27kMqH8pSywu-KV01MxAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73732109058-m8e0sclvccggu10vff3mshjfkis3jvd6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "73732109058-p50ko1f7i5pl3d3r0tpvos8p3fdqap2d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.live.FleetReceipt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
